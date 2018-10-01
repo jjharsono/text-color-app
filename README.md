@@ -1,12 +1,11 @@
 ## Change text color app ### 
-App Description
-: changes color of text on screen with button press 
+App Description: changes color of text on screen with button press 
 
 
 <img src="http://recordit.co/LIEQS8pLk1" width=200><br>
 
 
-[x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
