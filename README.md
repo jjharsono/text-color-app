@@ -2,7 +2,7 @@
 App Description: changes color of text on screen with button press 
 
 
-<img src="http://recordit.co/LIEQS8pLk1" width=200><br>
+<img src=http://recordit.co/LIEQS8pLk1 width=200><br>
 
 
 - [x] 1. User sees custom text in a label - Hello from {name}!
